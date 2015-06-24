@@ -7,6 +7,7 @@ Sources:
 - [tmux Copy & Paste on OS X: A Better Future](https://robots.thoughtbot.com/tmux-copy-paste-on-os-x-a-better-future)
 - [Love, Hate, & tmux](https://robots.thoughtbot.com/love-hate-tmux)
 - [Rocking With Tmux, Tmuxinator, Guard, Zeus, and iTerm2 for Rails Development](http://www.railsonmaui.com/blog/2014/03/11/rocking-with-tmux-tmuxinator-and-iterm2-for-rails-development/)
+- [Increased Developer Productivity with Tmux, Part 8: Copy mode.](http://minimul.com/increased-developer-productivity-with-tmux-part-8.html)
 
 # Keep your dotfiles in git
 
