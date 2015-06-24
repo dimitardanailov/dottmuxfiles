@@ -6,6 +6,7 @@ Sources:
 - [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
 - [tmux Copy & Paste on OS X: A Better Future](https://robots.thoughtbot.com/tmux-copy-paste-on-os-x-a-better-future)
 - [Love, Hate, & tmux](https://robots.thoughtbot.com/love-hate-tmux)
+- [Rocking With Tmux, Tmuxinator, Guard, Zeus, and iTerm2 for Rails Development](http://www.railsonmaui.com/blog/2014/03/11/rocking-with-tmux-tmuxinator-and-iterm2-for-rails-development/)
 
 # Keep your dotfiles in git
 
