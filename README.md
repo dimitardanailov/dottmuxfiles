@@ -1,6 +1,7 @@
 # My tmux settings
 
 Sources:
+- [OpenBSD tmux](http://www.openbsd.org/cgi-bin/man.cgi/OpenBSD-current/man1/tmux.1?query=tmux&sec=1)
 - [Chris Hunt - Impressive Ruby Productivity with Vim and Tmux - Ancient City Ruby 2013](https://www.youtube.com/watch?v=9jzWDr24UHQ) 
 - [Configuring Your Linux for Development With Zsh, Tmux, and Vim](https://www.codementor.io/linux/tutorial/configure-linux-toolset-zsh-tmux-vim)
 - [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
