@@ -13,7 +13,7 @@ Sources:
 # Keep your dotfiles in git
 
 ```bash
-git clone https://github.com/dimitardanailov/dotvimfiles ~/.tmux/
+git clone https://github.com/dimitardanailov/dottmuxfiles.git ~/.tmux/
 ```
 
 Create symbolic links so that `~/.tmux.conf` points to the ~/.tmux/tmux.conf file:
