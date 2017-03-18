@@ -12,6 +12,13 @@ Sources:
 
 # Keep your dotfiles in git
 
+Please install reattach-to-user-namespace
+
+```bash
+# https://superuser.com/questions/397076/tmux-exits-with-exited-on-mac-os-x
+brew install reattach-to-user-namespace
+```
+
 ```bash
 git clone https://github.com/dimitardanailov/dottmuxfiles.git ~/.tmux/
 ```
